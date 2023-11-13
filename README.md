@@ -1,6 +1,6 @@
-# PrototypeVRBowlingApp
+# ShapesXR XR Bowling App
 
-Prototype with ShapesXR VR Bowling App
+Prototype with ShapesXR XR Bowling App
 
 ![Screenshot (407)](https://github.com/Prasannaverse13/StrikeZone-XR-Futuristic-Bowling-Experience-main/assets/116105281/6084e9f2-8847-4066-a993-4689a1dadac7)
 
